@@ -1,0 +1,27 @@
+
+
+* TODO getting setup
+
+** TODO installing python
+** TODO getting the command line set up
+** TODO installing git
+** TODO get a github account
+
+** TODO why use python
+*** TODO Why use Python 3
+
+* TODO doing some analysis using ipython
+
+* TODO do some plotting using ipython
+
+* TODO doing something similar with a script that you can automate
+
+* TODO getting data from a web api
+
+* TODO more advanced statistics
+
+* TODO Sharing your analysis on github pages
+
+* TODO contributing to open source projects
+
+* TODO Getting started with web technology
