@@ -3,17 +3,42 @@
 * TODO getting setup
 
 ** TODO installing python
+
+   Use anaconda
 ** TODO getting the command line set up
-** TODO installing git
-** TODO get a github account
 
 ** TODO why use python
+
+   R is great as well, but I'd not suggest that anyone new to programming use
+   it to learn with. Learn python, you can do anything you like, and you'll
+   have a better time if you want to learn a new programming language
+
+
 *** TODO Why use Python 3
+
+
+   Easy to do on linux
+
+   What about mac
+
+   Windows we have some instructions
+** TODO installing git
+
+** TODO using git
+** TODO get a github account
+
+
+   Also need to explain why github is good
 
 * TODO doing some analysis using ipython
 
 * TODO do some plotting using ipython
 
+  go through the main plotting libraries
+
+
+** Matplotlib + seaborn
+** Bokeh
 * TODO doing something similar with a script that you can automate
 
 * TODO getting data from a web api
